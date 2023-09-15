@@ -1,4 +1,4 @@
-# My resume page!
+# My blog!
 
 ---
-[Click here to check the website](http://wandpsilva.github.io)
+[Click here to check the website](http://wandpsilva.github.io/blog)
